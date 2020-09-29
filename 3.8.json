@@ -1,0 +1,1 @@
+[["bf label","10001011dddddddd"],["bf/s label","10001111dddddddd"],["bt label","10001001dddddddd"],["bt/s label","10001101dddddddd"],["bra label","1010dddddddddddd"],["braf Rn","0000nnnn00100011"],["bsr label","1011dddddddddddd"],["bsrf Rn","0000nnnn00000011"],["jmp @Rn","0100nnnn00101011"],["jsr @Rn","0100nnnn00001011"],["rts","0000000000001011"]]
